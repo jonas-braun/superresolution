@@ -1,4 +1,4 @@
-# Superresolution Test
+# Superresolution Comparison
 
 Compare results of a superresolution algorithm in practice.
 
